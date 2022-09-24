@@ -12,3 +12,6 @@ def model2():
 
 def model2():
     print("add code for ML model 3")
+
+
+print("final modle is model 2")
